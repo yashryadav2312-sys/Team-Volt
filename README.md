@@ -41,7 +41,21 @@ This project aims to design a **compact, energy-efficient, and eco-friendly cool
 * Improved efficiency using PWM control
 
 ---
+## 🔌 Circuit Diagram
 
+
+
+### 🧠 Explanation
+
+* **Peltier Module (TEC12706)** is powered by 12V supply
+* **Heat sink + fan** remove heat from hot side
+* **DS18B20 sensor** measures temperature
+* **Arduino** reads sensor data
+* **W1209 controller** switches relay ON/OFF
+* **Relay + TIP122** control high current to Peltier
+
+
+---
 ## 📁 Project Files
 
 * 📄 Report: thermoelectric report final.pdf
