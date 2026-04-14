@@ -58,9 +58,9 @@ This project aims to design a **compact, energy-efficient, and eco-friendly cool
 ---
 ## 📁 Project Files
 
-* 📄 Report: thermoelectric report final.pdf
-* 📄 Documentation: Thermoelectric Peltier.pdf
-* 📊 Presentation: Peltier ppt jarvis -1.pptx
+* 📄 Report
+* 📄 Documentation
+* 📊 Presentation
 
 ---
 
