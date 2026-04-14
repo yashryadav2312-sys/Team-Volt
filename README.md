@@ -52,7 +52,7 @@ This project aims to design a **compact, energy-efficient, and eco-friendly cool
 
 ## 🎥 Demo Video
 
-https://youtube.com/shorts/IABv8hRCz18
+https://drive.google.com/drive/folders/1LJplGw6mUSQ16AOink04etYv8U-Nt8UC
 
 ---
 
